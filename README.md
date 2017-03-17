@@ -1,1 +1,1 @@
-"# Yandex_algorithms" 
+Yandex data school algorithms. 2015 year. Alexey Kolesov was the Teacher.
