@@ -1,0 +1,10 @@
+﻿Сборка начата 15.03.2015 18:40:28.
+     1>Проект "D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Домашние задания\Домашка2\piSequence_to_zSequence\piSequence_to_zSequence.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         D:\¿_Alt_0191\programming\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Домашние задания\Домашка2\piSequence_to_zSequence\Debug\piSequence_to_zSequence.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Домашние задания\Домашка2\piSequence_to_zSequence\Debug\piSequence_to_zSequence.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Домашние задания\Домашка2\piSequence_to_zSequence\Debug\piSequence_to_zSequence.lib" /MACHINE:X86 Debug\main.obj
+         piSequence_to_zSequence.vcxproj -> D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Домашние задания\Домашка2\piSequence_to_zSequence\Debug\piSequence_to_zSequence.exe
+     1>Сборка проекта "D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Домашние задания\Домашка2\piSequence_to_zSequence\piSequence_to_zSequence.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.53

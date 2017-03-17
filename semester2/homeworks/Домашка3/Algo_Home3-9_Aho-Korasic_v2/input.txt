@@ -1,0 +1,9 @@
+3
+abacaba
+brest
+is
+4
+abacabadabacaba
+brestisabacaba
+brestisbrest
+isis

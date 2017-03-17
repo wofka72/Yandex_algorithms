@@ -1,0 +1,75 @@
+﻿Сборка начата 29.05.2015 0:58:30.
+     1>Проект "D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Задания\Домашние задания\Домашка5\Algo_Home5_Task6\Algo_Home5_Task6.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\¿_Alt_0191\programming\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\¿_alt_0191\programming\vc\include\xutility(3373): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(122): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(729): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(758): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(794): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(920): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(1651): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(1886): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(2204): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(2472): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(2668): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocale(2895): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xiosbase(455): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xiosbase(537): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xiosbase(591): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\streambuf(25): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\streambuf(35): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocnum(65): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocnum(128): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocnum(271): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\¿_alt_0191\programming\vc\include\xlocnum(1092): warning C4566: символ, представленный универсальным именем символа  "\u00BF", невозможно представить в текущей кодовой странице (1251)
+     1>d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(29): при компиляции функции-члена "void Graph<size_type>::initialize(const std::vector<std::vector<size_type,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)" класса шаблон
+                 with
+                 [
+                     size_type=int
+         ,            _Ty=int
+                 ]
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(55): см. ссылку на создание экземпляров класса шаблон при компиляции "Graph<size_type>"
+                 with
+                 [
+                     size_type=int
+                 ]
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(167): см. ссылку на создание экземпляров класса шаблон при компиляции "PEREPOLOH_Solver<int>"
+     1>d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(102): при компиляции функции-члена "void PEREPOLOH_Solver<int>::outputData(std::ostream &)" класса шаблон
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(170): см. ссылку на создание экземпляров функции шаблон при компиляции "void PEREPOLOH_Solver<int>::outputData(std::ostream &)"
+     1>d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(134): warning C4018: <: несоответствие типов со знаком и без знака
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(129): при компиляции функции-члена "void PEREPOLOH_Solver<int>::dfsRecursive(const Graph<size_type> &,std::vector<bool,std::allocator<_Ty>> &,size_type,std::vector<_Ty,std::allocator<_Ty>> &,size_type &)" класса шаблон
+                 with
+                 [
+                     size_type=int
+         ,            _Ty=bool
+                 ]
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(121): см. ссылку на создание экземпляров функции шаблон при компиляции "void PEREPOLOH_Solver<int>::dfsRecursive(const Graph<size_type> &,std::vector<bool,std::allocator<_Ty>> &,size_type,std::vector<_Ty,std::allocator<_Ty>> &,size_type &)"
+                 with
+                 [
+                     size_type=int
+         ,            _Ty=bool
+                 ]
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(114): при компиляции функции-члена "void PEREPOLOH_Solver<int>::dfs(const Graph<size_type> &)" класса шаблон
+                 with
+                 [
+                     size_type=int
+                 ]
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(98): см. ссылку на создание экземпляров функции шаблон при компиляции "void PEREPOLOH_Solver<int>::dfs(const Graph<size_type> &)"
+                 with
+                 [
+                     size_type=int
+                 ]
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(73): при компиляции функции-члена "void PEREPOLOH_Solver<int>::inputData(std::istream &)" класса шаблон
+                 d:\+\учёба\шад\2 семестр\алгоритмы, часть 2\задания\домашние задания\домашка5\algo_home5_task6\main.cpp(168): см. ссылку на создание экземпляров функции шаблон при компиляции "void PEREPOLOH_Solver<int>::inputData(std::istream &)"
+       Link:
+         D:\¿_Alt_0191\programming\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Задания\Домашние задания\Домашка5\Algo_Home5_Task6\Debug\Algo_Home5_Task6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Задания\Домашние задания\Домашка5\Algo_Home5_Task6\Debug\Algo_Home5_Task6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Задания\Домашние задания\Домашка5\Algo_Home5_Task6\Debug\Algo_Home5_Task6.lib" /MACHINE:X86 Debug\main.obj
+         Algo_Home5_Task6.vcxproj -> D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Задания\Домашние задания\Домашка5\Algo_Home5_Task6\Debug\Algo_Home5_Task6.exe
+     1>Сборка проекта "D:\+\Учёба\ШАД\2 семестр\Алгоритмы, часть 2\Задания\Домашние задания\Домашка5\Algo_Home5_Task6\Algo_Home5_Task6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.91
